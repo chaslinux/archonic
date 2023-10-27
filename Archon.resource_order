@@ -25,6 +25,8 @@
     {"name":"obj_lt_archer","order":2,"path":"objects/obj_lt_archer/obj_lt_archer.yy",},
     {"name":"obj_lt_valkyrie","order":4,"path":"objects/obj_lt_valkyrie/obj_lt_valkyrie.yy",},
     {"name":"spr_lt_valkyrie","order":4,"path":"sprites/spr_lt_valkyrie/spr_lt_valkyrie.yy",},
+    {"name":"obj_lt_unicorn","order":6,"path":"objects/obj_lt_unicorn/obj_lt_unicorn.yy",},
+    {"name":"spr_lt_unicorn","order":6,"path":"sprites/spr_lt_unicorn/spr_lt_unicorn.yy",},
     {"name":"spr_light_bg","order":1,"path":"sprites/spr_light_bg/spr_light_bg.yy",},
     {"name":"spr_dark_bg","order":2,"path":"sprites/spr_dark_bg/spr_dark_bg.yy",},
     {"name":"obj_light_bg","order":1,"path":"objects/obj_light_bg/obj_light_bg.yy",},
