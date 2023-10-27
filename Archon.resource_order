@@ -20,7 +20,11 @@
     {"name":"Dark","order":6,"path":"folders/Objects/Dark.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_lt_golem","order":5,"path":"sprites/spr_lt_golem/spr_lt_golem.yy",},
+    {"name":"obj_lt_golem","order":5,"path":"objects/obj_lt_golem/obj_lt_golem.yy",},
     {"name":"obj_lt_archer","order":2,"path":"objects/obj_lt_archer/obj_lt_archer.yy",},
+    {"name":"obj_lt_valkyrie","order":4,"path":"objects/obj_lt_valkyrie/obj_lt_valkyrie.yy",},
+    {"name":"spr_lt_valkyrie","order":4,"path":"sprites/spr_lt_valkyrie/spr_lt_valkyrie.yy",},
     {"name":"spr_light_bg","order":1,"path":"sprites/spr_light_bg/spr_light_bg.yy",},
     {"name":"spr_dark_bg","order":2,"path":"sprites/spr_dark_bg/spr_dark_bg.yy",},
     {"name":"obj_light_bg","order":1,"path":"objects/obj_light_bg/obj_light_bg.yy",},

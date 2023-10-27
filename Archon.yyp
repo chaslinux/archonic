@@ -37,7 +37,11 @@
     "IDEVersion": "2023.1100.0.425",
   },
   "resources": [
+    {"id":{"name":"spr_lt_golem","path":"sprites/spr_lt_golem/spr_lt_golem.yy",},},
+    {"id":{"name":"obj_lt_golem","path":"objects/obj_lt_golem/obj_lt_golem.yy",},},
     {"id":{"name":"obj_lt_archer","path":"objects/obj_lt_archer/obj_lt_archer.yy",},},
+    {"id":{"name":"obj_lt_valkyrie","path":"objects/obj_lt_valkyrie/obj_lt_valkyrie.yy",},},
+    {"id":{"name":"spr_lt_valkyrie","path":"sprites/spr_lt_valkyrie/spr_lt_valkyrie.yy",},},
     {"id":{"name":"spr_lt_knight","path":"sprites/spr_lt_knight/spr_lt_knight.yy",},},
     {"id":{"name":"spr_light_bg","path":"sprites/spr_light_bg/spr_light_bg.yy",},},
     {"id":{"name":"spr_dark_bg","path":"sprites/spr_dark_bg/spr_dark_bg.yy",},},
