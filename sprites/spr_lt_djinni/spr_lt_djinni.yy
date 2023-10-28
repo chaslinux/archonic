@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_lt_golem",
-  "bbox_bottom": 30,
+  "name": "spr_lt_djinni",
+  "bbox_bottom": 29,
   "bbox_left": 3,
-  "bbox_right": 26,
+  "bbox_right": 27,
   "bbox_top": 1,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9112f698-4c8d-482c-afbf-f80840f36ed0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"eee07b2a-8030-40af-b102-6917ae944771",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 32,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"bea21d7d-f52a-476c-98ee-ac596d43650a","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"bf7f56bb-62fc-42de-adfd-44e640614535","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 4,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_lt_golem",
+    "name": "spr_lt_djinni",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9112f698-4c8d-482c-afbf-f80840f36ed0","path":"sprites/spr_lt_golem/spr_lt_golem.yy",},},},"Disabled":false,"id":"df247d14-8f74-4438-bde7-e74430eb69da","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"eee07b2a-8030-40af-b102-6917ae944771","path":"sprites/spr_lt_djinni/spr_lt_djinni.yy",},},},"Disabled":false,"id":"b054e1b8-e8a2-47dd-b9ec-da8acbd025e8","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
